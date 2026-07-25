@@ -30,8 +30,3 @@ A simple Python project that fetches real-time weather information for a city us
 - How to use query parameters
 - How to handle HTTP status codes
 - Basic API error handling
-
-## Project Screenshot
-
-### Weather Output
-![Weather Output](screenshots/weather_output.png)
