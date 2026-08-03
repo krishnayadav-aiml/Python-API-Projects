@@ -1,32 +1,20 @@
-# Weather API
+# Python API Projects
 
-A simple Python project that fetches real-time weather information for a city using the OpenWeather API.
+This repository contains Python projects built using different REST APIs.
 
-## Features
+## Projects
 
-- Get weather information by city name
-- Display temperature
-- Display feels-like temperature
-- Display pressure
-- Display humidity
-- Display wind speed
-- Display weather condition
-- Handle invalid API keys
-- Handle invalid city names
-- Handle unexpected errors
+### 🌤️ Weather API
+- Get real-time weather information
+- View Project: `weather-api-project/`
+
+### 📰 News API
+- Fetch the latest news by category
+- View Project: `News_API/`
 
 ## Technologies Used
 
 - Python
-- Requests Library
-- OpenWeather API
-
-## What I Learned
-
-- How to make API requests using Python
-- How to use the Requests library
-- How to work with JSON API responses
-- How to extract data from nested JSON
-- How to use query parameters
-- How to handle HTTP status codes
-- Basic API error handling
+- Requests
+- REST APIs
+- JSON
