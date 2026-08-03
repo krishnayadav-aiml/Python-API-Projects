@@ -23,25 +23,6 @@ A simple Python project that fetches the latest news based on a user-selected ca
 - JSON
 - NewsData.io API
 
-## Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/krishnayadav-aiml/Python-API-Projects.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd Python-API-Projects/News_API
-```
-
-3. Install the required package
-
-```bash
-pip install requests
-```
 
 ## Usage
 
@@ -73,21 +54,6 @@ Supported categories include:
 - top
 - world
 
-## Example Output
-
-```text
-Title: Glasgow passes Commonwealth Games baton to India
-
-Description: The 2026 Commonwealth Games came to an end...
-
-Source: India TV
-
-Country: india
-
-Publish Date: 2026-08-03 01:32:50
-```
-
-## Project Structure
 
 ```
 News_API/
